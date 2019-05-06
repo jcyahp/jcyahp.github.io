@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on 日中青少年文化艺术交流协会</title>
+    <link>https://keihouhan.github.io/service/</link>
+    <description>Recent content in Services on 日中青少年文化艺术交流协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keihouhan.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>书法</title>
+      <link>https://keihouhan.github.io/service/service4/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keihouhan.github.io/service/service4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>华文</title>
+      <link>https://keihouhan.github.io/service/service3/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keihouhan.github.io/service/service3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>合唱团</title>
+      <link>https://keihouhan.github.io/service/service1/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keihouhan.github.io/service/service1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>论语</title>
+      <link>https://keihouhan.github.io/service/service2/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keihouhan.github.io/service/service2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
